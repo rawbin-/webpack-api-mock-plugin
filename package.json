@@ -1,0 +1,25 @@
+{
+  "name": "webpack-api-mock-plugin",
+  "version": "1.0.0",
+  "description": "api mock plugin for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawbin-/webpack-api-mock-plugin.git"
+  },
+  "keywords": [
+    "api",
+    "mock",
+    "plugin",
+    "webpack"
+  ],
+  "author": "rawbin-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rawbin-/webpack-api-mock-plugin/issues"
+  },
+  "homepage": "https://github.com/rawbin-/webpack-api-mock-plugin#readme"
+}
